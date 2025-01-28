@@ -5,5 +5,3 @@ show_downloads: false
 theme: jekyll-theme-minimal
 
 layout: page
-permalink: /group.md
-permalink: /deliverables.md
