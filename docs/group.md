@@ -1,5 +1,7 @@
 # Group Members
 
+[Return home](https://cs495-bowfin.github.io/marketing/)
+
 | Name | Email | GitHub |
 | - | - | - |
 | Josh Balch | jrbalch@crimson.ua.edu | [Joshrbalch](https://github.com/Joshrbalch) |

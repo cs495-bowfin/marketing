@@ -5,4 +5,5 @@ show_downloads: false
 theme: jekyll-theme-minimal
 
 layout: page
-# permalink: /sprint.md
+permalink: /group.md
+permalink: /deliverables.md
