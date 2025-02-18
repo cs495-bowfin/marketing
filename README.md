@@ -1,6 +1,14 @@
 # CS 495: Capstone Computing (Bowfin)
 
+**Project website:** https://cs495-bowfin.github.io/marketing/
+
+**Jira board (account and invitation required):** https://bowfin.atlassian.net/jira/software/projects/DP/boards/1
+
+**Beechnut Kennels Staging Site (WordPress credentials from sponsor required):** https://beechnutkennels.wpcomstaging.com/
+
 ## Beechnut Kennels Site
+
+**Beechnut Kennels Facebook (for placeholder photos):** https://www.facebook.com/beechnut.kennels/photos
 
 The `beechnut-kennels-site` directory contains the HTML exports of the WordPress pages created via Elementor. These files can be generated as follows:
 1. Open the file within WordPress (not through Elementor) in your web browser.
