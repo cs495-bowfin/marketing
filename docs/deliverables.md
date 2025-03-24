@@ -11,7 +11,7 @@ The website is created on WordPress and is accessible only with credentials prov
 
 ## Sprint 2
 
-- <a href="" target="_blank">Sprint 2 Planning Document</a>
+- <a href="https://github.com/cs495-bowfin/marketing/blob/main/sprint2/Sprint%202%20Planning%20Document.pdf" target="_blank">Sprint 2 Planning Document</a>
 - <a href="" target="_blank">Sprint 2 Presentation</a>
 
 The website is created on WordPress and is accessible only with credentials provided by the client. Exports of the pages can be viewed in our <a href="https://github.com/cs495-bowfin/marketing/tree/main/beechnut-kennels-site" target="_blank">GitHub repository</a>.
