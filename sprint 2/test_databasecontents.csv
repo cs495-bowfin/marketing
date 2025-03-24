@@ -1,0 +1,14 @@
+dog_id,name,breed,age,vaccination_status,owner_name,owner_email,phone_number,birthday
+1,Buddy,"Golden Retriever",3,"Up to date","John Miller",john.miller@example.com,555-111-2222,2021-03-15
+2,Luna,Labrador,2,"Up to date","Sarah Lopez",sarah.lopez@example.com,555-222-3333,2022-06-10
+3,Max,Poodle,5,Expired,"Kevin Chen",kevin.chen@example.com,555-333-4444,2019-11-05
+4,Charlie,Beagle,4,"Up to date","Emily Smith",emily.smith@example.com,555-123-4567,2020-08-20
+5,Daisy,Bulldog,6,Expired,"James Brown",james.brown@example.com,555-234-5678,2018-04-30
+6,Rocky,"German Shepherd",2,"Up to date","Olivia Green",olivia.green@example.com,555-345-6789,2022-01-25
+7,Bella,Chihuahua,1,"Up to date","Liam Johnson",liam.johnson@example.com,555-456-7890,2023-02-14
+8,Milo,Boxer,3,Expired,"Sophia Lee",sophia.lee@example.com,555-567-8901,2020-10-08
+9,Lucy,"Cocker Spaniel",5,"Up to date","Noah Davis",noah.davis@example.com,555-678-9012,2019-09-12
+10,Toby,"Shih Tzu",7,Expired,"Ava Wilson",ava.wilson@example.com,555-789-0123,2017-07-03
+11,Sadie,Doberman,4,"Up to date","Ethan Martinez",ethan.martinez@example.com,555-890-1234,2020-05-22
+12,Bailey,Rottweiler,6,"Up to date","Mia Anderson",mia.anderson@example.com,555-901-2345,2018-12-17
+13,Zoe,"Yorkshire Terrier",2,Expired,"William Thomas",william.thomas@example.com,555-012-3456,2022-03-28
