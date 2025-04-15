@@ -1,7 +1,7 @@
 title: Project Website
 author: CS 495 Bowfin Group
 copyright: "2025"
-logo: bowfin-banner.JPG
+logo: pweb/bowfin-banner.JPG
 exclude_patterns: [readme.md, old, conversion_scripts]
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
