@@ -3,10 +3,13 @@ format: jb-book
 root: pweb/index.md
 parts:
 
-  - caption: "Project Website"
+  - caption: "Project Details"
     chapters:
     - file: pweb/group.md
     - file: pweb/deliverables.md
+
+  - caption: "Documentation"
+    chapters:
     - file: pweb/install.md
     - file: pweb/features.md
     - file: pweb/modification.md
